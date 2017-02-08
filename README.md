@@ -27,5 +27,4 @@ Zach Krell 50
         ![image of my editor](Capture.PNG)
         
         
-        
-        ![wasn't sure what link to give so enjoy](http://worldsbiggestpacman.com/)
+         ![check this out](https://github.com)
